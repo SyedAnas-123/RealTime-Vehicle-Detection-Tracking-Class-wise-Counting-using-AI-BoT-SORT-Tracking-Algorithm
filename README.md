@@ -44,3 +44,6 @@ Applications :
 
 
 https://github.com/SyedAnas-123/RealTime-Vehicle-Detection-Tracking-Class-wise-Counting-using-AI-BoT-SORT-Tracking-Algorithm/blob/main/Screenshot%202025-07-30%20004913.png?raw=true
+
+
+Screenshot 2025-07-30 004913.png
